@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Mobsec</title>
+    <link>/</link>
+    <description>Recent content in Homepage on Mobsec</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 May 2025 10:47:58 +1000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deya Elkhawaldeh</title>
+      <link>/team/deya/</link>
+      <pubDate>Mon, 19 May 2025 10:47:58 +1000</pubDate>
+      <guid>/team/deya/</guid>
+      <description>&lt;p&gt;Content Content &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Service 1</title>
+      <link>/services/accounting/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>/services/accounting/</guid>
+      <description>&lt;p&gt;Content Content &lt;strong&gt;Content&lt;/strong&gt; Content Content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dave Poirer</title>
+      <link>/team/dave/</link>
+      <pubDate>Mon, 19 May 2025 10:47:58 +1000</pubDate>
+      <guid>/team/dave/</guid>
+      <description>&lt;p&gt;Content Content &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Service 2</title>
+      <link>/services/business-advisory/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      <guid>/services/business-advisory/</guid>
+      <description>&lt;p&gt;Content Content &lt;strong&gt;Content&lt;/strong&gt; Content Content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Service 3</title>
+      <link>/services/business-sales/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      <guid>/services/business-sales/</guid>
+      <description>&lt;p&gt;Content Content &lt;strong&gt;Content&lt;/strong&gt; Content Content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Service 4</title>
+      <link>/services/mergers/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      <guid>/services/mergers/</guid>
+      <description>&lt;p&gt;Content Content &lt;strong&gt;Content&lt;/strong&gt; Content Content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Service 5</title>
+      <link>/services/superannuation/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      <guid>/services/superannuation/</guid>
+      <description>&lt;p&gt;Content Content &lt;strong&gt;Content&lt;/strong&gt; Content Content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Service 6</title>
+      <link>/services/tax-preperation/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      <guid>/services/tax-preperation/</guid>
+      <description>&lt;p&gt;Content Content &lt;strong&gt;Content&lt;/strong&gt; Content Content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;p&gt;Content Content Content Content Content Content&lt;/p&gt;&#xA;&lt;h2 id=&#34;subtitle&#34;&gt;Subtitle&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      <guid>/contact/</guid>
+      <description>&lt;p&gt;Content Content Content &amp;hellip;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Day&lt;/th&gt;&#xA;          &lt;th&gt;Opening Hours&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tuesday&lt;/td&gt;&#xA;          &lt;td&gt;8:30am - 5:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Wednesday&lt;/td&gt;&#xA;          &lt;td&gt;8:30am - 5:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thursday&lt;/td&gt;&#xA;          &lt;td&gt;8:30am - 5:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Friday&lt;/td&gt;&#xA;          &lt;td&gt;8:30am - 5:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Saturday&lt;/td&gt;&#xA;          &lt;td&gt;10:am - 4:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sunday&lt;/td&gt;&#xA;          &lt;td&gt;Closed&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>
